@@ -5,8 +5,8 @@
     "baseUrl": "./",
     "paths": {
       "component-library": [
-        "dist/component-library/component-library",
-        "dist/component-library"
+        "dist/component-library",
+        "dist/"
       ]
     },
     "outDir": "./dist/out-tsc",
